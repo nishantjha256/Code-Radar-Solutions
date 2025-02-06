@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-c
 int main() {
     char val;
     printf("");
